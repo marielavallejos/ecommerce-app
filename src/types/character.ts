@@ -7,8 +7,3 @@ export interface Character {
     name:         string;
     tail:         string;
 }
-
-export interface Serie {
-    key: string;
-    name: string;
-}
